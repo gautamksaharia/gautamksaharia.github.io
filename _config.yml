@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devashish Tupkary"
+title                    : "Gautam K Saharia"
 title_separator          : "-"
-name                     : &name "Devashish Tupkary"
+name                     : &name "Gautam K Saharia"
 description              : &description "personal description"
-url                      : https://dtupkary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gautamksaharia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dtupkary/dtupkary.github.io"
+repository               : "https://gautamksaharia.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter DTupkary
+  username               : #&twitter DTupkary
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Devashish Tupkary"
-  avatar           : "devashish.jpg"
-  bio              : "Graduate Student @ Institute for Quantum Computing"
-  location         : "Waterloo, Canada"
+  name             : "Gautam K Saharia"
+  avatar           : #"devashish.jpg"
+  bio              : "Graduate Student @ Cotton University"
+  location         : "Guwahati, India"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en"
-  email            : "tupkary.devashish@gmail.com"
+  googlescholar    : #"https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en"
+  email            : #"tupkary.devashish@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dtupkary"
+  github           : #"dtupkary"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/devashish-tupkary-333a46187"
+  linkedin         : #"https://www.linkedin.com/in/devashish-tupkary-333a46187"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@DTupkary"
+  twitter          : #"@DTupkary"
   vine             :
   weibo            :
   xing             :
