@@ -3,52 +3,17 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Gautam K Saharia"
-title_separator          : "-"
-name                     : &name "Gautam K Saharia"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gautamksaharia/gautamksaharia.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Gautam K Saharia"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD student Physics Baased Deep Learning"
-  location         : "Guwahati"
-  employer         : "Cotton University"
-  uri              : # URL
-  email            : "none@example.org" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=HPqwf8gAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1372-5946"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-
-  # Repositories and software development
-
-  github           : "gautamksaharia"
-
-  # Social media
-
-  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
-
-
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+locale                   : "en-US"
+title                    : "Devashish Tupkary"
+title_separator          : "-"
+name                     : &name "Devashish Tupkary"
+description              : &description "personal description"
+url                      : https://dtupkary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "dtupkary/dtupkary.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
 
 # SEO Related
 google_site_verification :
@@ -92,10 +55,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter DTupkary
 facebook:
   username               :
   app_id                 :
@@ -111,9 +73,48 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Devashish Tupkary"
+  avatar           : "devashish.jpg"
+  bio              : "Graduate Student @ Institute for Quantum Computing"
+  location         : "Waterloo, Canada"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en"
+  email            : "tupkary.devashish@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "dtupkary"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/devashish-tupkary-333a46187"
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "@DTupkary"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -243,7 +244,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 
 # Sass/SCSS
 sass:
