@@ -2,7 +2,6 @@
 title: "Even and odd nonautonomous NLSE hierarchy and reversible transformations"
 collection: publications
 permalink: /publication/paper2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-09-11
 venue: 'Optik'
 paperurl: 'https://doi.org/10.1016/j.ijleo.2021.167928'
