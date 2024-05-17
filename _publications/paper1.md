@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 22 September 2020
-venue: 'Journal 1'
+venue: 'Optik'
 paperurl: 'https://doi.org/10.1016/j.ijleo.2020.165452'
 citation: 'Nandy, S., Sahariah, G. K., & Barthakur, A. (2020). Generalized reversible transformations and new nonautonomous higher order Nonlinear Schrödinger equation. Optik, 223, 165452. https://doi.org/10.1016/j.ijleo.2020.165452'
 ---
