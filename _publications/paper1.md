@@ -3,11 +3,10 @@ title: "Generalized reversible transformations and new nonautonomous higher orde
 collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 22 September 2020
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.ijleo.2020.165452'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Nandy, S., Sahariah, G. K., & Barthakur, A. (2020). Generalized reversible transformations and new nonautonomous higher order Nonlinear Schrödinger equation. Optik, 223, 165452. https://doi.org/10.1016/j.ijleo.2020.165452'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We are looking at a complex kind of equation called the nonautonomous higher-order nonlinear Schrödinger equation (NLSE), which is used to describe waves, like light waves in optical fibers. In our research, we've created a new method to switch between two versions of these equations: one that has extra forces acting on it (forced) and one that doesn’t (free). This method works for equations that make waves either grow (focusing) or shrink (defocusing). By using this method, we found new rules that connect the different parts of these equations. These rules stay the same even when we transform the equations. This helped us discover new types of equations with more complex behaviors. We also used our method to find special wave shapes called dark and bright solitons. These are waves that can travel long distances without changing their shape. Our method allows us to link a group of NLSEs that usually change over time (nonisospectral) to those that don’t (isospectral). This makes it easier to study them using the same mathematical tools. We hope our work will help people understand these complex equations better and lead to new uses in physics.
