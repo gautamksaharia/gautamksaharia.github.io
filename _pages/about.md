@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gautam K Saharia academic personal websites"
+title: "Gautam K Saharia "
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
-A data-driven personal website
+I am a PhD student in Physics at Cotton University.
+"My research interests focus on applying deep learning in physics."
 ======
 
