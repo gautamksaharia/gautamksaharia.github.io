@@ -1,6 +1,6 @@
 ---
 title: "Research"
 collection: research
-permalink: /researcg/r
+permalink: /research/r
 
 ---
