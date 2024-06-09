@@ -2,7 +2,7 @@
 title: "Generalized reversible transformations and new nonautonomous higher order Nonlinear Schrödinger equation"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ' the nonautonomous higher-order nonlinear Schrödinger equation (NLSE) and its reversible transformations'
 date: 22 September 2020
 venue: 'Optik'
 paperurl: 'https://doi.org/10.1016/j.ijleo.2020.165452'
