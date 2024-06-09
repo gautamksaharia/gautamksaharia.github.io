@@ -9,6 +9,6 @@ redirect_from:
 
 
 I am a PhD student in Physics at Cotton University.
-My research interests focus on applying deep learning in physics.
-======
+My research interests focus on applying Deep Learning in Physics.
+
 
