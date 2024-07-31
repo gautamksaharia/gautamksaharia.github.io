@@ -1,11 +1,10 @@
 ---
 title: 'Some idea'
-date: 2013-08-14
+date: 2024-08-31
 permalink: /posts/2013/08/blog-post-2/
 tags:
   - cool posts
-  - category1
-  - category2
+
 ---
 
 Be proactive.
@@ -19,11 +18,4 @@ Beyond advice, such connections may lead to other opportunities further down the
 
 Being proactive also relates to how you view and talk about your research: Make it easy for other people to discover your work by highlighting it on your website, talking about it online, and writing a blog.
 
-Headings are cool
-======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
