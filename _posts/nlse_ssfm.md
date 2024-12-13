@@ -1,3 +1,14 @@
+---
+title: 'Some idea'
+date: 2024-08-31
+permalink: /posts/2013/08/nlse_ssfm/
+tags:
+  - cool posts
+
+---
+
+
+
 PYTHON  code  to simulate the propagation of optical pulses through a fiber optic system based on the nonlinear Schrödinger equation. The simulation includes both symmetric and asymmetric split-step Fourier methods. Here's an explanation of the key components:
 
 ---
