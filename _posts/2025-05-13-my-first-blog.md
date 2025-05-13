@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /posts/2025-05-13-my-first-blog
 title: "Understanding Physics-Informed Neural Networks"
 date: 2025-05-13
 categories: blog
