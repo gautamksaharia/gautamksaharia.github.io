@@ -20,9 +20,8 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
-  main:
-  - title: "Home"
-    url: /
+
   - title: "Blog"
     url: /blog/
+  
 
