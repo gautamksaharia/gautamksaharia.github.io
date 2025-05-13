@@ -1,7 +1,6 @@
 ---
 title: 'Some idea'
-date: 2024-08-31
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/blog-post-2/
 tags:
   - cool posts
 
