@@ -9,7 +9,7 @@ main:
     url: /cv/
 
   - title: "Blog"
-    url: /blog/
+    url: /posts/
 
   # Optional future pages:
   # - title: "Talks"
