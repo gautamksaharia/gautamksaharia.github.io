@@ -5,4 +5,4 @@ permalink: /blog/
 author_profile: true
 ---
 
-Welcome to my blog! Here are my latest posts:
+Welcome to my blog!
