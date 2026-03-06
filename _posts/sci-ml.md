@@ -1,3 +1,19 @@
+---
+layout: single
+permalink: /posts/sci-ml
+title: "Scientific Machine Learning: A New Tool for Physics Students"
+date: 2026-03-06
+categories: blog
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+---
+
+
+
+
 # Scientific Machine Learning: A New Tool for Physics Students
 
 ## Introduction
